@@ -10,6 +10,20 @@
 | First screen word | 16384 + 32 x 19 = **16992** |
 | Assembler extra feature | 19 mod 3 = 1 -> **clear error message with line number** |
 
+<img width="815" height="446" alt="image" src="https://github.com/user-attachments/assets/aa65a8c3-6ec5-4a95-a93e-2ca91b181a62" />
+
+<img width="792" height="418" alt="image" src="https://github.com/user-attachments/assets/10e0c98c-63e1-42d2-8136-5536b811b124" />
+
+<img width="825" height="477" alt="image" src="https://github.com/user-attachments/assets/c39fcb9b-889b-4a6f-ad20-00c7b46796cb" />
+
+<img width="823" height="460" alt="image" src="https://github.com/user-attachments/assets/18c04bb6-cbfe-44e6-80a8-638ed8522bd2" />
+
+<img width="833" height="451" alt="image" src="https://github.com/user-attachments/assets/c5b0fc26-7a2a-428a-8c7b-cb75823a0d18" />
+
+<img width="823" height="553" alt="image" src="https://github.com/user-attachments/assets/0465328a-c0b0-40b2-8e72-8bee474d3e81" />
+
+<img width="820" height="460" alt="image" src="https://github.com/user-attachments/assets/76541358-de48-46a7-a087-190be2a92eb0" />
+
 ## Folder contents
 
 ```
